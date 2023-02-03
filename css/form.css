@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,200&family=Unbounded:wght@200;300&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: Poppins;
+    font-weight: 800;
+}
+label{
+    /* width: 100px; */
+    padding-right: 15px;
+}
+.form-heading{
+    text-align: center;
+}
+.form-item{
+    display: flex;
+}
+
+/* .send{
+    color:#000;
+} */
+/* .additembtn{
+    background-color: #f77f00;
+    border:1px solid gray;
+} */

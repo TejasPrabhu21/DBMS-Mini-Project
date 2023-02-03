@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,200&family=Unbounded:wght@200;300&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: Poppins;
+    font-weight: 800;}
+
+/* .navbar-brand{
+    color:#f77f00;
+} */
+a{  
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color:#FFC107;
+}
+.sidenav{
+    position: sticky;
+    top:0;
+    height:100vh;
+    width: max-content;
+}
+
+.components > li{
+    padding:15px;
+}
+
+/* .nav-link{
+    color: aliceblue;
+} */
+
+
+
+
+/* .profile{
+    position: sticky;
+    top:0;
+    height:100vh;
+    width: max-content;
+    color: white;
+}
+
+.info {
+    color: white;
+}
+.light{
+    color: gray;
+    font-weight: 100;
+} */
